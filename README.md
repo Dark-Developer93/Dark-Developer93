@@ -78,15 +78,16 @@ GitHub Daily Streak Stats  |  GitHub Detailed info
 
 GitHub Daily Streak Stats  |  GitHub Detailed info
 :-------------------------:|:-------------------------:
-Primo.af                   |  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=primo-af&repo=primo&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-Duplicate  merger tool       | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Beamanator&repo=RIPS-Duplicate-Merger-CExt&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-Wifi gate to enter password| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=python-network-gate&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-Simple NextJs website      | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=Next&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-Primo.af server hosted     | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=primo-server&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[Useful To Do App](https://to-do-list-save.netlify.app/)     | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=To-Do-List-by-JS-localStorage&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-Useful ReactJS To Do App     | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=MyTodoApp&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
+Primo.af                   |  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=primo-af&repo=primo&theme=gotham&hide_border=true)](https://github.com/Dark-Developer93/primo)
+CMS with Hugo              |  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=one-click-hugo-cms&theme=gotham&hide_border=true)](https://github.com/Dark-Developer93/one-click-hugo-cms)
+Useful Task Management tool|  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=task-management&theme=gotham&hide_border=true)](https://github.com/Dark-Developer93/task-management)
+Useful Contact App         |  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=contact-app&theme=gotham&hide_border=true)](https://github.com/Dark-Developer93/contact-app)
+Duplicate  merger tool     | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Beamanator&repo=RIPS-Duplicate-Merger-CExt&theme=gotham&hide_border=true)](https://github.com/Dark-Developer93/RIPS-Duplicate-Merger-CExt)
+Wifi gate to enter password| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=python-network-gate&theme=gotham&hide_border=true)](https://github.com/Dark-Developer93/python-network-gate)
+Simple NextJs website      | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=Next&theme=gotham&hide_border=true)](https://github.com/Dark-Developer93/Next)
+Primo.af server hosted     | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=primo-server&theme=gotham&hide_border=true)](https://github.com/Dark-Developer93/primo-server)
+[Useful To Do App](https://to-do-list-save.netlify.app/)     | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=To-Do-List-by-JS-localStorage&theme=gotham&hide_border=true)](https://github.com/Dark-Developer93/To-Do-List-by-JS-localStorage)
+Useful ReactJS To Do App   | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=MyTodoApp&theme=gotham&hide_border=true)](https://github.com/Dark-Developer93/MyTodoApp)
 
 <!-- 
 **Dark-Developer93/Dark-Developer93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
