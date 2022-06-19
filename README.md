@@ -54,6 +54,35 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-plain.svg" title="VScode" **alt="VScode" width="40" height="40"/>&nbsp;
 </p>
+
+---
+
+### :fire: My Stats :
+
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dark-Developer93&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dark-Developer93&count_private=true&show_icons=true&theme=dark)](https://github.com/Dark-Developer93/github-readme-stats) -->
+
+GitHub Daily Streak Stats             |  GitHub Detailed info
+:-------------------------:|:-------------------------:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dark-Developer93&theme=gotham&hide_border=true)](https://git.io/streak-stats)  |  [![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dark-Developer93&count_private=true&show_icons=true&theme=gotham&hide_border=true)](https://github.com/Dark-Developer93/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-Developer93&layout=compact&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- 
 **Dark-Developer93/Dark-Developer93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
