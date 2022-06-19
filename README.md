@@ -63,23 +63,28 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dark-Developer93&count_private=true&show_icons=true&theme=dark)](https://github.com/Dark-Developer93/github-readme-stats) -->
 
-GitHub Daily Streak Stats             |  GitHub Detailed info
+GitHub Daily Streak Stats  |  GitHub Detailed info
 :-------------------------:|:-------------------------:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dark-Developer93&theme=gotham&hide_border=true)](https://git.io/streak-stats)  |  [![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dark-Developer93&count_private=true&show_icons=true&theme=gotham&hide_border=true)](https://github.com/Dark-Developer93/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-Developer93&layout=compact&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+### ::notebook_with_decorative_cover: Repositires I have contributed to:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=primo-af&repo=primo&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=RIPS-Duplicate-Merger-CExt&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-
-
-
-
-
-
-
-
+GitHub Daily Streak Stats  |  GitHub Detailed info
+:-------------------------:|:-------------------------:
+Primo.af                   |  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=primo-af&repo=primo&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+Duplicate  merger tool       | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Beamanator&repo=RIPS-Duplicate-Merger-CExt&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+Wifi gate to enter password| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=python-network-gate&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+Simple NextJs website      | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=Next&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+Primo.af server hosted     | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=primo-server&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[Useful To Do App](https://to-do-list-save.netlify.app/)     | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=To-Do-List-by-JS-localStorage&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+Useful ReactJS To Do App     | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=MyTodoApp&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
