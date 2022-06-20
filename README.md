@@ -68,7 +68,7 @@ GitHub Daily Streak Stats  |  GitHub Detailed info
 :-------------------------:|:-------------------------:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dark-Developer93&theme=gotham&hide_border=true)](https://git.io/streak-stats)  |  [![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dark-Developer93&count_private=true&show_icons=true&theme=gotham&hide_border=true)](https://github.com/Dark-Developer93/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-Developer93&layout=compact&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-Developer93&layout=compact&theme=gotham&hide_border=true&langs_count=10&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ::notebook_with_decorative_cover: Repositires I have contributed to:
 
