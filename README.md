@@ -29,7 +29,7 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🌱 Exploring Technical Content Writing.
+- 🌱 Exploring contribution possibilities
 - ⚡ In my free time I solve problems, read tech articles and teach others how to code.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Abdullah-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eng-abdullah2016)
 
@@ -70,14 +70,14 @@ GitHub Daily Streak Stats  |  GitHub Detailed info
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-Developer93&layout=compact&theme=gotham&hide_border=true&langs_count=10&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
 
-### ::notebook_with_decorative_cover: Repositires I have contributed to:
+### ::notebook_with_decorative_cover: Some Repositires that I have contributed to:
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=primo-af&repo=primo&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=RIPS-Duplicate-Merger-CExt&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-GitHub Daily Streak Stats  |  GitHub Detailed info
+GitHub Repositires  |  GitHub Repositires
 :-------------------------:|:-------------------------:
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=one-click-hugo-cms&theme=gotham&hide_border=true)](https://github.com/Dark-Developer93/one-click-hugo-cms)                   |  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=primo-af&repo=primo&theme=gotham&hide_border=true)](https://github.com/Dark-Developer93/primo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=contact-app&theme=gotham&hide_border=true)](https://github.com/Dark-Developer93/contact-app)|  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=task-management&theme=gotham&hide_border=true)](https://github.com/Dark-Developer93/task-management)
