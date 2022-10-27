@@ -103,7 +103,7 @@ GitHub Daily Streak Stats  |  GitHub Detailed info
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=primo-server&theme=gotham&hide_border=true" />
 </a>
 <a href="https://github.com/Dark-Developer93/primo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=primo-af&repo=primo&theme=gotham&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=primo&theme=gotham&hide_border=true" />
 </a>
 <a href="https://github.com/Dark-Developer93/MyTodoApp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=MyTodoApp&theme=gotham&hide_border=true" />
