@@ -75,12 +75,24 @@ GitHub Daily Streak Stats  |  GitHub Detailed info
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-Developer93&layout=compact&theme=gotham&hide_border=true&langs_count=10&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
 
-### ::notebook_with_decorative_cover: Some Repositires that I have contributed to:
+### ::notebook_with_decorative_cover: Some of the public Repositires that I have contributed to:
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=primo-af&repo=primo&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=RIPS-Duplicate-Merger-CExt&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
+<a href="https://github.com/Dark-Developer93/primo-server">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=primo-server&theme=gotham&hide_border=true" />
+</a>
+<a href="https://github.com/Dark-Developer93/primo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=primo&theme=gotham&hide_border=true" />
+</a>
+<a href="https://github.com/Dark-Developer93/RIPS-Duplicate-Merger-CExt">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Beamanator&repo=RIPS-Duplicate-Merger-CExt&theme=gotham&hide_border=true" />
+</a>
+<a href="https://github.com/Dark-Developer93/Next">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=Next&theme=gotham&hide_border=true" />
+</a>
 <a href="https://github.com/Dark-Developer93/one-click-hugo-cms">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=one-click-hugo-cms&theme=gotham&hide_border=true&" />
 </a>
@@ -92,24 +104,6 @@ GitHub Daily Streak Stats  |  GitHub Detailed info
 </a>
 <a href="https://github.com/Dark-Developer93/python-network-gate">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=python-network-gate&theme=gotham&hide_border=true" />
-</a>
-<a href="https://github.com/Dark-Developer93/RIPS-Duplicate-Merger-CExt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Beamanator&repo=RIPS-Duplicate-Merger-CExt&theme=gotham&hide_border=true" />
-</a>
-<a href="https://github.com/Dark-Developer93/Next">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=Next&theme=gotham&hide_border=true" />
-</a>
-<a href="https://github.com/Dark-Developer93/primo-server">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=primo-server&theme=gotham&hide_border=true" />
-</a>
-<a href="https://github.com/Dark-Developer93/primo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=primo&theme=gotham&hide_border=true" />
-</a>
-<a href="https://github.com/Dark-Developer93/MyTodoApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=MyTodoApp&theme=gotham&hide_border=true" />
-</a>
-<a href="https://github.com/Dark-Developer93/To-Do-List-by-JS-localStorage">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=To-Do-List-by-JS-localStorage&theme=gotham&hide_border=true" />
 </a>
 
 <!-- GitHub Repositires  |  GitHub Repositires
