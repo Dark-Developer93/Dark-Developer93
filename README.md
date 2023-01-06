@@ -30,9 +30,10 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🌱 Exploring contribution possibilities
-- ⚡ In my free time I solve problems, read tech articles and teach others how to code.
+- 🔭 Passionate software developer, contributing to frontend and backend with a focus on building intuitive and efficient applications.
+- 💻 Constantly learning and seeking out new challenges to solve.
+- 🌱 Exploring contribution possibilities, solve problems, read tech articles and teach others how to code.
+- ⚡ When I'm not coding, you can find me watching anime or trying out new dishes.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Abdullah-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eng-abdullah2016)
 
 ---
@@ -105,6 +106,16 @@ GitHub Daily Streak Stats  |  GitHub Detailed info
 <a href="https://github.com/Dark-Developer93/python-network-gate">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=python-network-gate&theme=gotham&hide_border=true" />
 </a>
+
+### ::notebook_with_decorative_cover: Some of my online projects I did:
+
+- [WeMaAd website our Agency](https://www.wemaad.net/)
+- [Online Store](https://wemaad.com/stores/jscouture/)
+- [Telecommunication company](https://wemaad.com/websites/blt/)
+- [HR management system](https://hrms.wemaad.com/web/index.php/auth/login)
+- [24events company website](https://24events.sa/)
+- [Laboratory website](https://www.laslab.net/)
+- [Birth Guardians Egypt](https://birthguardians-eg.org/)
 
 <!-- GitHub Repositires  |  GitHub Repositires
 :-------------------------:|:-------------------------:
