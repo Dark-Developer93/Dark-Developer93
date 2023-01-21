@@ -20,6 +20,9 @@
   <img src="https://komarev.com/ghpvc/?username=Dark-Developer93&style=flat-square&color=blue" alt=""/>
 </div>
 <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Abdullah Sadaqa</h1>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Dark-Developer93&theme=nord&margin-w=9&no-frame=true" alt="Github Profile Trophy" />
+</p>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
