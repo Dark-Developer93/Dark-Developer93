@@ -113,12 +113,13 @@ GitHub Daily Streak Stats  |  GitHub Detailed info
 ### ::notebook_with_decorative_cover: Some of my online projects I did:
 
 - [WeMaAd website our Agency](https://www.wemaad.net/)
-- [Online Store](https://wemaad.com/stores/jscouture/)
+- [Online Store](https://store.sitrstore.com/)
 - [Telecommunication company](https://wemaad.com/websites/blt/)
 - [HR management system](https://hrms.wemaad.com/web/index.php/auth/login)
 - [24events company website](https://24events.sa/)
-- [Laboratory website](https://www.laslab.net/)
+- [Real Estate website](https://lassud.com/)
 - [Birth Guardians Egypt](https://birthguardians-eg.org/)
+- [App website](https://primocms.org/)
 
 <!-- GitHub Repositires  |  GitHub Repositires
 :-------------------------:|:-------------------------:
