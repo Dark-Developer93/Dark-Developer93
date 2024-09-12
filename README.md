@@ -99,7 +99,7 @@ GitHub Daily Streak Stats  |  GitHub Detailed info
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=primo&theme=gotham&hide_border=true" />
 </a>
 <a href="https://github.com/Dark-Developer93/aissist">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Beamanator&repo=aissist&theme=gotham&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=aissist&theme=gotham&hide_border=true" />
 </a>
 <a href="https://github.com/Dark-Developer93/LeaveTracker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=LeaveTracker&theme=gotham&hide_border=true" />
