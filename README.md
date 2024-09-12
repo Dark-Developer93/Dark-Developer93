@@ -98,14 +98,14 @@ GitHub Daily Streak Stats  |  GitHub Detailed info
 <a href="https://github.com/Dark-Developer93/primo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=primo&theme=gotham&hide_border=true" />
 </a>
-<a href="https://github.com/Dark-Developer93/RIPS-Duplicate-Merger-CExt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Beamanator&repo=RIPS-Duplicate-Merger-CExt&theme=gotham&hide_border=true" />
+<a href="https://github.com/Dark-Developer93/aissist">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Beamanator&repo=aissist&theme=gotham&hide_border=true" />
 </a>
-<a href="https://github.com/Dark-Developer93/Next">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=Next&theme=gotham&hide_border=true" />
+<a href="https://github.com/Dark-Developer93/LeaveTracker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=LeaveTracker&theme=gotham&hide_border=true" />
 </a>
-<a href="https://github.com/Dark-Developer93/one-click-hugo-cms">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=one-click-hugo-cms&theme=gotham&hide_border=true&" />
+<a href="https://github.com/Dark-Developer93/openai-chat-frontend-vanillajs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=openai-chat-frontend-vanillajs&theme=gotham&hide_border=true&" />
 </a>
 <a href="https://github.com/Dark-Developer93/contact-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=contact-app&theme=gotham&hide_border=true" />
@@ -113,8 +113,8 @@ GitHub Daily Streak Stats  |  GitHub Detailed info
 <a href="https://github.com/Dark-Developer93/task-management">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=task-management&theme=gotham&hide_border=true" />
 </a>
-<a href="https://github.com/Dark-Developer93/python-network-gate">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=python-network-gate&theme=gotham&hide_border=true" />
+<a href="https://github.com/Dark-Developer93/car-wash-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=car-wash-app&theme=gotham&hide_border=true" />
 </a>
 
 ### ::notebook_with_decorative_cover: Some of my online projects I did:
