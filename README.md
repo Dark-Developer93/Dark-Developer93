@@ -86,46 +86,47 @@ GitHub Daily Streak Stats  |  GitHub Detailed info
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-Developer93&layout=compact&theme=gotham&hide_border=true&langs_count=10&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
 
-### ::notebook_with_decorative_cover: Some of the public Repositires that I have contributed to:
+### :notebook_with_decorative_cover: Some of the public Repositires that I have contributed to:
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=primo-af&repo=primo&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=RIPS-Duplicate-Merger-CExt&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<a href="https://github.com/Dark-Developer93/primo-server">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=primo-server&theme=gotham&hide_border=true" />
-</a>
-<a href="https://github.com/Dark-Developer93/primo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=primo&theme=gotham&hide_border=true" />
-</a>
 <a href="https://github.com/Dark-Developer93/aissist">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=aissist&theme=gotham&hide_border=true" />
 </a>
 <a href="https://github.com/Dark-Developer93/LeaveTracker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=LeaveTracker&theme=gotham&hide_border=true" />
 </a>
-<a href="https://github.com/Dark-Developer93/openai-chat-frontend-vanillajs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=openai-chat-frontend-vanillajs&theme=gotham&hide_border=true&" />
+<a href="https://github.com/Dark-Developer93/School-LMS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=School-LMS&theme=gotham&hide_border=true" />
 </a>
-<a href="https://github.com/Dark-Developer93/contact-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=contact-app&theme=gotham&hide_border=true" />
+<a href="https://github.com/Dark-Developer93/invoice-wemaad">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=invoice-wemaad&theme=gotham&hide_border=true" />
 </a>
-<a href="https://github.com/Dark-Developer93/task-management">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=task-management&theme=gotham&hide_border=true" />
+<a href="https://github.com/Dark-Developer93/airbnb-clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=airbnb-clone&theme=gotham&hide_border=true" />
 </a>
-<a href="https://github.com/Dark-Developer93/car-wash-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=car-wash-app&theme=gotham&hide_border=true" />
+<a href="https://github.com/Dark-Developer93/job-board-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=job-board-app&theme=gotham&hide_border=true" />
+</a>
+<a href="https://github.com/Dark-Developer93/primo-server">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=primo-server&theme=gotham&hide_border=true" />
+</a>
+<a href="https://github.com/Dark-Developer93/primo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dark-Developer93&repo=primo&theme=gotham&hide_border=true" />
 </a>
 
-### ::notebook_with_decorative_cover: Some of my online projects I did:
+### :notebook_with_decorative_cover: Some of my online projects I did:
 
+- [Inovice System](https://invoice-wemaad.vercel.app/)
+- [LMS System](school-lms-seven.vercel.app)
+- [Leave Tracking System](rcleavetracker.vercel.app/)
+- [Task Management with AI](aissist-sadaqa.vercel.app)
 - [WeMaAd website our Agency](https://www.wemaad.net/)
-- [Online Store](https://store.sitrstore.com/)
+- [Online Store](https://wemaad.com/stores/jscouture/)
 - [Telecommunication company](https://wemaad.com/websites/blt/)
-- [HR management system](https://hrms.wemaad.com/web/index.php/auth/login)
-- [24events company website](https://24events.sa/)
-- [Real Estate website](https://lassud.com/)
-- [Birth Guardians Egypt](https://birthguardians-eg.org/)
+- [Real Estate website](https://wemaad.com/websites/lassud) 
 - [App website](https://primocms.org/)
 
 <!-- GitHub Repositires  |  GitHub Repositires
