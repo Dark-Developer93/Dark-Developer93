@@ -123,6 +123,7 @@ GitHub Daily Streak Stats  |  GitHub Detailed info
 - [LMS System](school-lms-seven.vercel.app)
 - [Leave Tracking System](rcleavetracker.vercel.app/)
 - [Task Management with AI](aissist-sadaqa.vercel.app)
+- [Student Management System](student-management-system-liard.vercel.app)
 - [WeMaAd website our Agency](https://www.wemaad.net/)
 - [Online Store](https://wemaad.com/stores/jscouture/)
 - [Telecommunication company](https://wemaad.com/websites/blt/)
