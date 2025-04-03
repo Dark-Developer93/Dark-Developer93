@@ -120,7 +120,7 @@ GitHub Daily Streak Stats  |  GitHub Detailed info
 ### :notebook_with_decorative_cover: Some of my online projects I did:
 
 - [Inovice System](https://invoice-wemaad.vercel.app/)
-- [LMS System](https://school-lms-seven.vercel.app)
+- [LMS System](https://school-lms-public.vercel.app/)
 - [Leave Tracking System](https://rcleavetracker.vercel.app/)
 - [Task Management with AI](https://aissist-sadaqa.vercel.app)
 - [Student Management System - Demo](https://student-management-system-liard.vercel.app)
