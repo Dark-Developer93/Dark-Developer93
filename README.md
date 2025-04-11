@@ -31,19 +31,20 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-👋 Hi, I'm a creative and results-driven **Senior Frontend Developer & Team Lead** with 6+ years of experience building modern web apps.
+👋 I'm a Full-Stack Developer & Team Lead with 6+ years of experience building scalable, modern web applications.
 
-💻 Tech I love: **Next.js**, **Tailwind CSS**, **ShadCN UI**, **GraphQL**, **Framer Motion**  
-🎨 Strong eye for detail with **Figma** integration  
-🛠️ Backend-ready with **Node.js** & **Azure SQL** and etc. 
-🚀 Passionate about crafting responsive, scalable UIs and exploring **AI in apps & automation**  
-🤝 Team player, mentor, and Agile project driver
- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+🔧 Tech Stack:  
+- Frontend – Next.js, Tailwind CSS, ShadCN UI, GraphQL, Framer Motion  
+- Backend – Node.js, Express, REST APIs, Azure SQL, PostgreSQL, Prisma  
+- Cloud & DevOps – Azure, GCP, CI/CD, Docker  
+- Auth – JWT, OAuth, Firebase Auth, Clerk, Auth.js
 
-- 🔭 Passionate software developer, contributing to frontend and backend with a focus on building intuitive and efficient applications.
-- 💻 Constantly learning and seeking out new challenges to solve.
-- 🌱 Exploring contribution possibilities, solve problems, read tech articles and teach others how to code.
-- ⚡ When I'm not coding, you can find me watching anime or trying out new dishes.
+🎨 Passionate about crafting clean, responsive UIs with pixel-perfect Figma integration  
+🧠 Exploring AI applications in app development and automation  
+🤝 Skilled in leading Agile teams, mentoring developers, and delivering full-stack features from concept to production
+
+Always learning. Always building.
+
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Abdullah-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eng-abdullah2016)
 
 ---
