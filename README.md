@@ -31,7 +31,14 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+👋 Hi, I'm a creative and results-driven **Senior Frontend Developer & Team Lead** with 6+ years of experience building modern web apps.
+
+💻 Tech I love: **Next.js**, **Tailwind CSS**, **ShadCN UI**, **GraphQL**, **Framer Motion**  
+🎨 Strong eye for detail with **Figma** integration  
+🛠️ Backend-ready with **Node.js** & **Azure SQL** and etc. 
+🚀 Passionate about crafting responsive, scalable UIs and exploring **AI in apps & automation**  
+🤝 Team player, mentor, and Agile project driver
+ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 🔭 Passionate software developer, contributing to frontend and backend with a focus on building intuitive and efficient applications.
 - 💻 Constantly learning and seeking out new challenges to solve.
