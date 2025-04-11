@@ -31,7 +31,7 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-👋 I'm a Full-Stack Developer & Team Lead with 6+ years of experience building scalable, modern web applications.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a Full-Stack Developer & Team Lead with 6+ years of experience building scalable, modern web applications.
 
 🔧 Tech Stack:  
 - Frontend – Next.js, Tailwind CSS, ShadCN UI, GraphQL, Framer Motion  
